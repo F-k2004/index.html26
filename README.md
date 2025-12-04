@@ -5,7 +5,7 @@
 <title>🔥 Rainbow Plasma Energy</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
-  ody {
+  body {
     margin: 0;
     overflow: hidden;
     background: black;
